@@ -1,4 +1,4 @@
--- Sales Data Analysis (Real-world business questions)
+-- Sales Data Analysis 
 
 -- 1. Total company revenue
 SELECT SUM(sales_amount) AS total_revenue
